@@ -5,9 +5,8 @@
 
 | 题号 | 题目 | 是否独立完成 | 难度 | 标签 |
 |------|------|----------------|------|------|
-| [1](https://leetcode.cn/problems/longest-common-prefix/description/)) | Longest Common Prefix| ❌ | Easy | Array |
-| [88](https://leetcode.com/problems/merge-sorted-array/) | Merge Sorted Array | ✅ | Easy | Array, Two Pointers |
-| [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Remove Duplicates | ❌ | Easy | Array, Two Pointers |
+| [14](https://leetcode.cn/problems/longest-common-prefix/description/)) | Longest Common Prefix| ❌ | Easy | Array |
+| [11](https://leetcode.cn/problems/container-with-most-water/description/) | Container with Most Water | ✅ | Medium | Array, Two Pointers |
 
 ---
 
