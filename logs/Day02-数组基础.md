@@ -5,9 +5,9 @@
 
 | 题号 | 题目 | 是否独立完成 | 难度 | 标签 |
 |------|------|----------------|------|------|
-|15. Three Sum | https://leetcode.cn/problems/3sum/ | ❌ | Medium | Array, Two Pointers|
-|56. Merge Intervals | https://leetcode.cn/problems/merge-intervals/| ❌ | Medium | Array, sorting|
-|49. Group Anagrams | https://leetcode.cn/problems/group-anagrams/| ❌ | Medium| Array, Two Pointers |
+|[15](https://leetcode.cn/problems/3sum/)|Three Sum | ❌ | Medium | Array, Two Pointers|
+|[56](https://leetcode.cn/problems/merge-intervals/)| Merge Intervals | ❌ | Medium | Array, sorting|
+|[49](https://leetcode.cn/problems/group-anagrams/)| Group Anagrams | ❌ | Medium| Array, Two Pointers |
 
 ---
 
