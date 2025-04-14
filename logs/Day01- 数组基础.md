@@ -5,8 +5,8 @@
 
 | 题号 | 题目 | 是否独立完成 | 难度 | 标签 |
 |------|------|----------------|------|------|
-| [14](https://leetcode.cn/problems/longest-common-prefix/description/)) | Longest Common Prefix| ❌ | Easy | Array |
-| [11](https://leetcode.cn/problems/container-with-most-water/description/) | Container with Most Water | ✅ | Medium | Array, Two Pointers |
+| [14] Longest Common Prefix| https://leetcode.cn/problems/longest-common-prefix/description/ |❌ | Easy | Array |
+| [11] Container with Most Water | https://leetcode.cn/problems/container-with-most-water/description/ | ✅ | Medium | Array, Two Pointers |
 
 ---
 
@@ -19,5 +19,3 @@
 
 ## 明日计划
 
-- 字符串练习题（344、387、242）
-- 复习 Python 字符串 API
