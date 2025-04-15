@@ -8,6 +8,7 @@
 | [141](https://leetcode.cn/problems/linked-list-cycle/description/) | LinkedList Cycle | ❌ | Easy | Linkedlist, Hash, 快慢指针 |
 | [21](https://leetcode.cn/problems/merge-two-sorted-lists/description/) |merge two sorted lists| ❌ | Easy | Linkedlist, 递归, 迭代|
 | [2](https://leetcode.cn/problems/add-two-numbers/description/) |Add two numbers| ❌ | Medium | Linkedlist, |
+| [19](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) |Remove nth node from end of list| ❌ | Medium | Linkedlist, |
 
 
 ---
@@ -35,6 +36,12 @@
    // 10：得到 十位数字，用于下一次进位。
   
    这对操作广泛用于 大数加法、乘法、字符串数字运算 等场景。
+  - 链表的删除操作需要修改 前驱节点的 next 指针，而不是直接操作待删除节点。
+    
+    倒数第 n 个节点 的 正数位置 是：
+
+    正数位置 = length − n + 1
+
 
 
 ---
