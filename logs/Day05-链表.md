@@ -7,8 +7,8 @@
 |------|------|----------------|------|------|
 | [24](https://leetcode.cn/problems/swap-nodes-in-pairs/description/) |Swap two pairs | ❌ | Medium | Linkedlist, 迭代|
 | [138](https://leetcode.cn/problems/copy-list-with-random-pointer/description/) |Copy List with Random Pointers| ❌ |  Medium | Linkedlist, hashmap|
-| [148](https://leetcode.cn/problems/sort-list/description/) |Sort list| ❌ | Medium | Linkedlist, |
-| [146](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) |Remove nth node from end of list| ❌ | Medium | Linkedlist, |
+| [148](https://leetcode.cn/problems/sort-list/description/) |Sort list| ❌ | Medium | Linkedlist, 快慢指针，merge sort|
+| [146](https://leetcode.cn/problems/lru-cache/description/) |LRU Cache| ❌ | Medium | Linkedlist, hashmap, doubly linked list|
 
 
 ---
@@ -23,6 +23,17 @@
 
 - 2. 深拷贝（deep copy）
 递归复制所有子对象，完全独立的副本。原对象和拷贝对象互不影响。
+
+- 3.链表排序中的一些技巧：
+快慢指针找链表中点，经典技巧
+
+合并两个有序链表：类似 21 题
+
+递归归并排序，链表排序的标准写法
+
+切断链表要注意（slow.next = None）
+
+
 
 ---
 
