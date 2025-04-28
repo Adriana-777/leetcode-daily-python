@@ -5,7 +5,7 @@
 
 | 题号 | 题目 | 是否独立完成 | 难度 | 标签 |
 |------|------|----------------|------|------|
-| [49]（https://leetcode.cn/problems/group-anagrams/description/） | Group Anagrams| ❌  | Medium | Hashmap |
+| [49](https://leetcode.cn/problems/group-anagrams/description/)| Group Anagrams| ❌  | Medium | Hashmap |
 | [128](https://leetcode.cn/problems/longest-consecutive-sequence/description/) | Longest Consectutive Sequence| ❌ | Medium | Hashmap |
 | [01](https://leetcode.cn/problems/two-sum/description/) | Two sums | ❌ | Easy | Hashmap |
 
