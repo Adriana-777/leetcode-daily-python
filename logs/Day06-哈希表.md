@@ -15,7 +15,7 @@
 
 - 1.list 是不可哈希的，不能直接当字典 key。需要转成tuple
 
-- 2. 使用 defaultdict(list) 的好处是：即使 key 不存在，也不会报错，会自动创建空列表。
+- 2.使用 defaultdict(list) 的好处是：即使 key 不存在，也不会报错，会自动创建空列表。
 
 - 3.set 与dict区别
 ---
