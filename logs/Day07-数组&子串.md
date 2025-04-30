@@ -1,11 +1,11 @@
 
-# 📅 Day07 - 2025/04/28 - 哈希表
+# 📅 Day07 - 2025/04/28 - 数组&子串
 
 ## 今日完成题目（共3题）
 
 | 题号 | 题目 | 是否独立完成 | 难度 | 标签 |
 |------|------|----------------|------|------|
-| [49](https://leetcode.cn/problems/group-anagrams/description/)| Group Anagrams| ❌  | Medium | Hashmap |
+| [189](https://leetcode.cn/problems/rotate-array/description/)|Rotate Array| ❌  | Medium | array |
 | [128](https://leetcode.cn/problems/longest-consecutive-sequence/description/) | Longest Consectutive Sequence| ❌ | Medium | Hashmap |
 | [01](https://leetcode.cn/problems/two-sum/description/) | Two sums | ❌ | Easy | Hashmap |
 
