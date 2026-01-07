@@ -15,3 +15,5 @@
 # 复杂度分析： Time O(N), Space O(N)。
 
 # 底层原理 (Why): 为什么 Dict 查找是 O(1)？因为底层是 Open Addressing 的 Hash Table。
+
+# HF Thinking:如果数组有 10 亿个数据，内存放不下怎么办？(答案涉及 External Sort 或 Bloom Filter)。
