@@ -1,0 +1,17 @@
+## 题目： [No.1 Two Sum]
+
+## 核心考点： HashMap (O(1) 查找)
+
+## 我的初级解法 (Bad): 暴力双循环 O(N²)。
+
+## Hedge Fund 思维 (Solid):
+
+## Idea: 用空间换时间。遍历时，回头看一眼 target - current_value 是否在字典里。
+
+## Corner Case: 只有 2 个数？找不到怎么办？
+
+## Pythonic 写法 (Snippet): (贴上不超过 15 行的精简代码)
+
+## 复杂度分析： Time O(N), Space O(N)。
+
+## 底层原理 (Why): 为什么 Dict 查找是 O(1)？因为底层是 Open Addressing 的 Hash Table。
